@@ -1,0 +1,38 @@
+﻿order_id,customer_id,age,city,category,quantity,unit_price,order_date,payment_method
+A1001,C001,25, bangkok ,Electronics,1,25900,01/09/2026,Credit Card
+A1002,C002,31,BANGKOK, electronics ,2,890,2026-09-02,PromptPay
+A1002,C002,31,BANGKOK, electronics ,2,890,2026-09-02,PromptPay
+A1003,C003,,Chiang mai,Fashion,1,1290,3 Sep 2026,Credit Card
+A1004,C004,999,Bkk,Home,1,3500,04-09-2026,Cash on Delivery
+A1005,C005,22,Phuket,Beauty,3,450,05/09/2026,PromptPay
+A1006,C006,28,phuket,fashion,-1,1790,2026/09/06,Credit Card
+A1007,C007,35,Chiang Mai,Home,2,,07/09/2026,Credit Card
+A1008,C008,41,Bangkok,Electronics,1,45900,2026-09-08,Bank Transfer
+A1009,C009,19, BANGKOK ,Beauty,2,650,09 Sep 2026,PromptPay
+A1010,C010,27,Khon Kaen,Sports,1,2500,10/09/2026,Credit Card
+A1011,C011,29,khon kaen,Sports,2,1500,2026-09-11,Credit Card
+A1012,C012,33,Bangkok,Home,1,7800,12/09/2026,Bank Transfer
+A1012,C012,33,Bangkok,Home,1,7500,12/09/2026,Bank Transfer
+A1013,C013,,Chiang Mai,electronics,1,19900,13/09/2026,Credit Card
+A1014,C014,52,Pattaya,Home,2,2200,2026-09-14,Cash on Delivery
+A1015,C015,46,PATTAYA,Beauty,1,990,15 Sep 2026,PromptPay
+A1016,C016,38,Bangkok,Sports,3,1200,16/09/2026,Credit Card
+A1017,C017,24,,Fashion,2,1390,17/09/2026,PromptPay
+A1018,C018,30,Bkk,Electronics,1,unknown,18/09/2026,Credit Card
+A1019,C019,44,Chiang Mai,Home,1,-500,19/09/2026,Bank Transfer
+A1020,C020,36,Phuket,Sports,1,3200,2026-09-20,Credit Card
+A1021,C021,21,Bangkok,beauty,4,390,21/09/2026,PromptPay
+A1022,C022,26,Chiang Mai,Fashion,1,2100,22 Sep 2026,Credit Card
+A1023,C023,32,Khon Kaen,Electronics,1,12500,23/09/2026,Bank Transfer
+A1024,C024,40,Bangkok,Home,2,4600,2026-09-24,Credit Card
+A1025,C025,23,Phuket,Fashion,3,990,25/09/2026,PromptPay
+A1026,C026,34,Pattaya,Sports,2,2800,26/09/2026,Credit Card
+A1027,C027,29,Bangkok,Electronics,1,32900,27/09/2026,Bank Transfer
+A1028,C028,37,Chiang mai,Home,1,6400,28 Sep 2026,Credit Card
+A1029,C029,45,BANGKOK,Beauty,2,1100,29/09/2026,PromptPay
+A1030,C030,20,Phuket,Sports,1,1990,32/09/2026,Credit Card
+A1031,C031,55,Khon Kaen,Home,1,5200,2026-10-01,Bank Transfer
+A1032,C032,18,Bangkok,Fashion,2,1490,02/10/2026,PromptPay
+A1033,C033,,Pattaya,Electronics,1,15900,2026-10-03,Credit Card
+A1034,C034,42,Chiang Mai,Beauty,3,720,04 Oct 2026,
+A1035,C035,31,Bangkok,Sports,2,1750,05/10/2026,Credit Card
