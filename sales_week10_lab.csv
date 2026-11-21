@@ -1,0 +1,13 @@
+order_id,city,category,product,quantity,unit_price
+1001,Bangkok,Electronics,Laptop,1,35000.0
+1002,Bangkok,Accessories,Mouse,2,500.0
+1003,ChiangMai,Electronics,Laptop,1,34000.0
+1004,Bangkok,Accessories,Keyboard,1,1500.0
+1005,Phuket,Food,Coffee,3,120.0
+1006,ChiangMai,Food,Coffee,2,100.0
+1007,Phuket,Electronics,Monitor,1,9000.0
+1008,Bangkok,Electronics,Monitor,2,8500.0
+1009,ChiangMai,Accessories,Mouse,3,450.0
+1010,Phuket,Accessories,Keyboard,2,1400.0
+1011,Bangkok,Food,Coffee,5,110.0
+1012,ChiangMai,Electronics,Monitor,2,8800.0
